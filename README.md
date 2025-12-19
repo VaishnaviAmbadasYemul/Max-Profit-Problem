@@ -9,7 +9,7 @@ This project solves the Max Profit Problem, an interview assignment that require
 
 The solution focuses on:
 
-Correct interpretation of problem constraints
+**Correct interpretation of problem constraints**
 
 Sequential construction simulation
 
