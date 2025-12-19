@@ -10,7 +10,9 @@ This project solves the Max Profit Problem, an interview assignment that require
 **The solution focuses on**
 
 Correct interpretation of problem constraints
+
 Sequential construction simulation
+
 Profit optimization logic
 
 ## Problem Description
@@ -36,8 +38,8 @@ Goal: maximize total earnings
 
 ## Objective
 
-Given an input value n (total available time units):
-Determine the best combination of T, P, and C
+. Given an input value n (total available time units):
+. Determine the best combination of T, P, and C
 Ensure total build time ≤ n
 Maximize overall earnings
 
