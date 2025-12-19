@@ -87,4 +87,26 @@ Command Line / Terminal
 
 Git & GitHub
 
+**Sample Outputs**
 
+✅ Input: 7
+Earnings: $3000
+
+T: 1  P: 0  C: 0
+
+**How to Run the Project**
+
+1. Clone the repository:
+   git clone https://github.com/your-username/max-profit-problem.git
+
+2. Navigate to the project folder:
+   cd max-profit-problem
+
+3. Run the Python file:
+    python max_profit.py
+
+## Time Complexity
+
+O(n³) (bounded by small input constraints)
+
+Efficient and acceptable for interview-level problems
