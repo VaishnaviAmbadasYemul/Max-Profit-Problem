@@ -38,20 +38,29 @@ Goal: maximize total earnings
 
 ## Objective
 
-. Given an input value n (total available time units):
-. Determine the best combination of T, P, and C
+Given an input value n (total available time units):
+
+Determine the best combination of T, P, and C
+
 Ensure total build time ≤ n
+
 Maximize overall earnings
 
 
 ## Solution Strategy
 
 Evaluate all valid combinations of:
+
 Theatres (T)
+
 Pubs (P)
+
 Commercial Parks (C)
+
 Simulate construction step-by-step
+
 Calculate earnings after each building completion
+
 Track and return the combination with maximum profit
 
 **This approach ensures accuracy and alignment with the problem examples.**
@@ -63,14 +72,19 @@ Programming Language: Python 3
 ## Concepts Used:
 
 Brute Force Optimization
+
 Simulation
+
 Nested Iteration
+
 Conditional Logic
 
 Tools:
 
 VS Code / Any Python IDE
+
 Command Line / Terminal
+
 Git & GitHub
 
 
